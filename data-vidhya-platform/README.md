@@ -1,4 +1,25 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Data Vidhya Platform
+
+A platform for data science education and resources.
+
+## Description
+
+This project is a Next.js based platform providing courses, projects, and resources for individuals interested in learning data science. The platform includes a landing page with multiple sections showcasing courses, client testimonials, projects, and FAQs.
+
+## Features
+
+*   **Landing Page:** A comprehensive landing page with sections for courses, testimonials, projects, and FAQs.
+*   **Course Listings:** Display of available data science courses.
+*   **Project Showcase:** Highlights data science projects completed by users.
+*   **Client Testimonials:** Displays feedback and testimonials from platform users.
+*   **FAQ Section:** Answers frequently asked questions about the platform.
+
+## Technologies Used
+
+*   **Next.js:** A React framework for building web applications.
+*   **React:** A JavaScript library for building user interfaces.
+*   **JavaScript:** Programming language for implementing application logic.
+*   **CSS:** Styling for the user interface.
 
 ## Getting Started
 
@@ -24,8 +45,8 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+*   [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+*   [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
