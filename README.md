@@ -47,7 +47,7 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 To install Shadcn UI, run:
 
 ```bash
-npx shadcn-ui@latest init
+npx shadcn@latest init
 ```
 
 To install Lucide React, run:
